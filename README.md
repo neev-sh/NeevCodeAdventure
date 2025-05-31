@@ -25,4 +25,9 @@
      ```
      python NeevCodeAdventure.py
      ```
-   - **Mac:**
+   - **Mac:**  
+     ```
+     python3 NeevCodeAdventure.py
+     ```
+
+**Enjoy your adventure!**
