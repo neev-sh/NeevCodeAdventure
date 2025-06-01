@@ -1,5 +1,5 @@
 def start_game():
-    print("Welcome to Neev’s Coding adventure!”)
+    print("Welcome to Neevs Coding adventure!”)
     print("You are a coder who falls into a dark cave...")
     print("You must find your way out!\n")
     input("Press Enter to begin...")
